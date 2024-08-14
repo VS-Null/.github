@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 Welcome.
+
+Official organization for the VS Null mod & the mod team.
 <!--
 
 **Here are some ideas to get you started:**
